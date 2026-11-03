@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "hytperSMP.aternos.me",
-    "port": 42946,
-    "version": "26.3",
+    "port": 19132,
+    "version": "1.21.10",
     "try-creative": false
   },
   "position": {
